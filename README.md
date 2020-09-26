@@ -17,12 +17,16 @@
 <br/>
 
 
-**I am Into , 🙏**
+**Main**
 <br/>
-**AI Devlopment, Linux Application devlopment and security analyt.**
+**LavLab InfoSec**
+<br/>
+
+***Want to be!***
+<br/>
+Security Analyst
 
 <br/>
-
 <a href="https://github.com/LavSarkari">
   <img src="https://github-readme-stats.vercel.app/api?username=LavSarkari&show_icons=true&theme=blue-green&layout=compact" alt="LavSarkari GitHub Stats" />
 </a>
