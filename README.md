@@ -22,9 +22,6 @@
 **LavLab InfoSec💻**
 <br/>
 
-***Want to be!***
-<br/>
-Security Analyst😎
 
 <br/>
 <a href="https://github.com/LavSarkari">
