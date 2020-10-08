@@ -13,7 +13,7 @@
 <br/>
 
 ### Hi visitor🤗,
-### I'm 15 years old Self-taught Programer [From India].
+### I'm 15 years old Self-taught Python Programer [From India].
 
 <br/>
 
