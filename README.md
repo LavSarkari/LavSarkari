@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <img align='center' src"https://giphy.com/gifs/gifnews-russia-GuRuLWOGo0CI" width="230">
 <br/>
-<a href="https://www.instagram.com/lav_sarkari">
+<a href="https://www.instagram.com/cyber_tantrik">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://github.com/LavSarkari">
