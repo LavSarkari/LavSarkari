@@ -1,4 +1,4 @@
-# Hi there, It's Me [LavSarkari][github]
+# Hi there, It's Me LavSarkari
 ## From India
 
 - 🌱 I’m currently learning everything 
@@ -18,6 +18,10 @@
 <a href="https://www.github/LavSarkari">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
+#
+
+---
 
 ## [website]: https://LavSarkari.github.io
 
