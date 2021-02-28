@@ -1,4 +1,4 @@
-# Hi there, It's Me LavSarkari
+# Hi there, It's Me [LavSarkari](https://LavSarkari.github.io)
 ## From India
 
 - 🌱 I’m currently learning everything 
@@ -14,10 +14,11 @@
 <br />
 
 ---
-### [Website](https://LavSarkari.github.io)
 
 <br />
 
 <p>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=LavSarkari" alt="visitor badge"/>
 </p>
+
+Thanks
