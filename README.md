@@ -2,10 +2,10 @@
 ## From India
 
 - 🌱 I’m currently learning everything 
-- � 2021 Goals: Not Desided Yet
+- �  2021 Goals: Not Desided Yet
 - 🔭 I’m currently working on some secret projects
 - ⚡ Fun fact: Trying to learn everything.
-- ⚡ Latest Project: I don't Remember
+- ⚡ Latest Project: [Kairav](https://github.com/LavSarkari/Kairav)
 
 ---
 <a href="https://github.com/LavSarkari">
@@ -21,4 +21,4 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=LavSarkari" alt="visitor badge"/>
 </p>
 
-Thanks
+### Thanks 🙏
