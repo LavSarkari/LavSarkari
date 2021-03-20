@@ -4,9 +4,9 @@
 </p>
 
 - 🌱 I’m currently learning everything 
-- �  2021 Goals: Not Desided Yet
-- 🔭 I’m currently working on some secret projects
-- ⚡ Fun fact: Trying to learn everything.
+- �  2021 Goals: To Learn Every thing.
+- 🔭 I’m currently working on some web projects
+- ⚡ Fun fact: Doing all my works in Redmi Note 4. (NO Laptop)
 - ⚡ Latest Project: [Kairav](https://github.com/LavSarkari/Kairav)
 
 ---
