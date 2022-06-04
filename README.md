@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning c lang, bash, multimedia and animation and office automation :) 
 - �  2022 Goals: Just to explor latest cyber secuity projects and chilling!!.
 - 🔭 I’m currently pursuing my diploma in Information technology.
+- ⚡ On hand project: Akira an AI BOT same as Alexa and Siri. [ for now its private ]
 - ⚡ Fun fact: I'm Noob! HAHA!
-- ⚡ Latest Project: [Kairav](https://github.com/LavSarkari/Kairav)
 - ⚡ Insta:- [LavSakari](https://instagram.com/its.me.sarkari)
 
 ---
