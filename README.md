@@ -8,7 +8,7 @@
 - 🔭 I’m currently pursuing my diploma in Information technology.
 - ⚡ On hand project: Akira an AI BOT same as Alexa and Siri. [ for now its private ]
 - ⚡ Fun fact: I'm Noob! HAHA!
-- ⚡ Insta:- [LavSakari](https://instagram.com/its.me.sarkari)
+- ⚡ Insta:- [LavSakari](https://instagram.com/cyber_tantrik)
 
 ---
 <a href="https://github.com/LavSarkari">
