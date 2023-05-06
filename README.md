@@ -4,9 +4,9 @@
 </p>
 
 - 🌱 I’m currently learning NOTHING :) 
-- �  2022 Goals: Just to chill!!.
+- �  2023 Goals: Just to chill!!.
 - 🔭 I’m currently pursuing my diploma in Information technology.
-- ⚡ On hand project: *i dont have hands*.
+- ⚡ On hand project: *i dont have any*.
 - ⚡ Fun fact: I'm Super Duper Noob! HAHA!
 - ⚡ Insta:- [LavSakari](https://instagram.com/cyber_tantrik)
 
