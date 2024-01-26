@@ -3,7 +3,7 @@
 </p>
 
 - 🌱 I’m currently learning NOTHING :) 
-- �  2023 Goals: Just to chill!!.
+- �  2024 Goals: Just to chill!!.
 - 🔭 I’m currently pursuing my diploma in Information technology.
 - ⚡ On hand project: *i dont have any*.
 - ⚡ Fun fact: I'm Super Duper Noob! HAHA!
