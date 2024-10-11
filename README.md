@@ -1,19 +1,39 @@
-# Hi there, it's Lav!
-![Masthead](https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif)
-<a href="https://github.com/LavSarkari"><img title="INDIAN" src="https://img.shields.io/badge/FROM-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
-</p>
+```console
+LavSarkari@github:~$ ./welcome.sh
+```
 
-- 🌱 I’m currently learning NOTHING :) 
-- �  2024 Goals: Just to chill!!.
-- 🔭 I’m currently pursuing my diploma in Information technology.
-- ⚡ On hand project: *i dont have any*.
-- ⚡ Fun fact: I'm Super Duper Noob! HAHA!
-- ⚡ Insta:- [LavSakari](https://instagram.com/cyber_tantrik)
+```
+ _____________________________________
+< Welcome to my personal github page! >
+ ------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
----
-<a href="https://github.com/LavSarkari">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavSarkari&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
-</a>
-<br />
 
----
+```
+trykatchup@github
+-------------------------
+🏫 Diploma in Information Technology
+🔎 Main interests in AI & Hacking
+🔭 Working on Deep Learning based Pentest solutions
+🌱 Learning about diffrent ways to hack-in stuff
+🌟 Main languages: Python, kali-linux
+🏴‍☠️ Currently involved in CTF competitions and web dev 
+🚩 Interested in network security and web security
+💖 In a complicated relationship with Maths
+🖌️ Love playing chess!
+🎵 Love millennial, pop, adhd and her<3
+⚡ Love peanut butter (but not on pasta or pizza) 😭
+```
+
+
+
+<div align="right">
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif"/>
+</div>
+ 
+
