@@ -15,7 +15,7 @@ LavSarkari@github:~$ ./welcome.sh
 
 
 ```
-trykatchup@github
+lavsarkari@github
 -------------------------
 🏫 Diploma in Information Technology
 🔎 Main interests in AI & Hacking
