@@ -21,7 +21,7 @@ lavsarkari@github
 🔎 Main interests in AI & Hacking
 🔭 Working on Deep Learning based Pentest solutions
 🌱 Learning about diffrent ways to hack-in stuff
-🌟 Main languages: Python, kali-linux
+🌟 Main languages, os: Python, kali-linux
 🏴‍☠️ Currently involved in CTF competitions and web dev 
 🚩 Interested in network security and web security
 💖 In a complicated relationship with Maths
