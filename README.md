@@ -18,7 +18,7 @@ LavSarkari@github:~$ ./welcome.sh
 lavsarkari@github
 -------------------------
 🏫 Diploma in Information Technology
-🔎 Main interests in AI & Hacking & Cloud
+🔎 Main interests in Core Tech & Hacking & Cloud
 🔭 Working on Somthing even i dont know
 🌱 Learning about diffrent ways to hack-in stuff
 🌟 Main languages, os: Python, kali-linux
