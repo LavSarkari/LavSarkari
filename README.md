@@ -36,5 +36,6 @@ lavsarkari@github
 <div align="right">
 <img src="https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif"/>
 </div>
+<div align="center"> <a href="https://discord.gg/kwU88HAZ26"> <img src="https://img.shields.io/discord/1322929717883568199?label=Join%20our%20Discord&logo=discord&style=for-the-badge"/> </a> </div> <br> <div align="right">
  
 
