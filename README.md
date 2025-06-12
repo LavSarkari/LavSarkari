@@ -17,18 +17,17 @@ LavSarkari@github:~$ ./welcome.sh
 ```
 lavsarkari@github
 -------------------------
-🏫 Diploma in Information Technology
-🔎 Main interests in Core Tech & Hacking & Cloud
-🔭 Working on Somthing even i dont know
-🌱 Learning about diffrent ways to hack-in stuff
-🌟 Main languages, os: Python, kali-linux
-🏴‍☠️ Currently involved in CTF competitions and web dev 
-🚩 Interested in network security and web security
-😶‍🌫️ Shifting to cloud security
-💖 In a complicated relationship with Maths
-🖌️ Love playing chess!
-🎵 Love millennial, pop, adhd and her<3
-⚡ Love peanut butter (but not on pasta or pizza) 😭
+🏫 Diploma in Information Technology (2024), B.Tech CSE in progress (2025–)
+🔎 Focused on Core Tech, Web Security, and LLM Hacking (no more cloud hype)
+🔭 currently building skills to out-skill IITians. no cap.
+🌱 learning how to break the internet ethically
+🌟 main stack: python, kali-linux, burp, bash, obsidian
+🏴‍☠️ active in CTFs, lowkey into bug bounties & discord bot shenanigans
+🚩 hooked on web & network security | anti-cloud (mostly)
+🧠 trying to make peace with maths (it's complicated)
+🎮 chess > therapy | notes > noise | hacks > hype
+🎧 on loop: millennial, pop, adhdcore & her<3
+⚡ peanut butter supremacy. except on pizza. ew.
 ```
 
 
